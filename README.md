@@ -1,4 +1,5 @@
 # wordpress-single-user
 Wordpress for single user with speed
 
-22-07-14: Core is done
+* 220010 Updated load file:)
+* 220714: Core is done
