@@ -1,0 +1,75 @@
+<!-->Open Graph<!-->
+
+PS!: Open Graph tags need to be added to the head section of each page on your website. Use this template to copy from and then just adjust with your own information.
+
+
+<meta property="og:title" content="Title Of Your Content Here" />
+<meta property="og:description" content="Description of your content here" />
+<meta property="og:url" content="http://www.yoursite.com/yourcontent.html" />
+<meta property="og:image" content="http://www.yoursite.com/yourimage.jpg" />
+<meta property="og:site_name" content="The Name Of Your Site" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+Once added, validate the tags via the tools referred to in the final section of this post below.
+
+<!-->Twitter Cards
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:title" content="Title Of Your Content Here"/>
+<meta name="twitter:description" content="Description of your content here"/>
+<meta name="twitter:site" content="@yourusername"/>
+<meta name="twitter:image" content="http://www.yoursite.com/yourimage.jpg"/>
+<meta name="twitter:creator" content="@yourusername"/>
+
+
+<!--> Facebook Open Graph meta tags   / LinkedIn -->
+
+<meta property="og:title" content="Enter a title for this page." />
+<meta property="og:url" content="Enter your page/site URL." />
+<meta property="og:image" content="Enter the URL for a representative image, e.g., portrait, logo. Image should square and at least 600px wide." />
+<meta property="og:site_name" content="Enter the name of your site." />
+<meta property="og:description" content="Enter a description of your website." />
+
+
+
+<!-->IF you got in more Language: <!-->
+
+<meta property="og:audio" content="https://example.com/bond/theme.mp3" />
+<meta property="og:description" 
+content="" />
+<meta property="og:determiner" content="the" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:locale:alternate" content="fr_FR" />
+<meta property="og:locale:alternate" content="es_ES" />
+<meta property="og:site_name" content="IMDb" />
+<meta property="og:video" content="https://example.com/xxx/trailer.swf" />
+
+
+
+<!-->images: <!-->
+
+<meta property="og:image" content="https://example.com/ogp.jpg" />
+<meta property="og:image:secure_url" content="https://secure.example.com/ogp.jpg" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="400" />
+<meta property="og:image:height" content="300" />
+<meta property="og:image:alt" content="A shiny red apple with a bite taken out" />
+The og:video tag has the identical tags as og:image. Here is an example:
+
+<!-->Movies:<!-->
+
+<meta property="og:video" content="https://example.com/movie.swf" />
+<meta property="og:video:secure_url" content="https://secure.example.com/movie.swf" />
+<meta property="og:video:type" content="application/x-shockwave-flash" />
+<meta property="og:video:width" content="400" />
+<meta property="og:video:height" content="300" />
+The og:audio tag only has the first 3 properties available (since size doesn't make sense for sound):
+
+<!--> Audio:  <!-->
+
+<meta property="og:audio" content="https://example.com/sound.mp3" />
+<meta property="og:audio:secure_url" content="https://secure.example.com/sound.mp3" />
+<meta property="og:audio:type" content="audio/mpeg" />
+
+
+o not add this:  <!-->!
