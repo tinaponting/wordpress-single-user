@@ -1,8 +1,9 @@
 # wordpress-single-user
 Wordpress for single user with speed
 
-Workks with genesis aswell common wordpress installs:)
+Works with genesis aswell common wordpress installs:)
 
+* Updaded 221029 core files:)
 * 220930 Added:Robots.txt for better WP!
 * 220929 Added: robots.txt /if needed!
 * Updated 220915  wpcron updated!
