@@ -1,0 +1,47 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /comments/feed/
+Disallow: */comments$
+Disallow: ?comments=*
+Disallow: /comment-subscriptions/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/cache/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/themes/
+Disallow: /trackback/
+Disallow: /search/ 
+Disallow: *?s=*
+Disallow: *&preview=*
+Disallow: /404-error/
+Disallow: /wp-json/
+Disallow: /wp-signup.php
+Disallow: /tmp/
+Disallow: */wp-login.php
+Disallow: /*wp-login.php=*
+Disallow: */wp-register.php
+Disallow: /xmlrpc.php
+Disallow: /.txt
+Disallow: /show-error-*
+Disallow: /ErrorPages/
+Disallow: /download/
+Disallow: /submit.php
+
+Allow: /
+User-agent: * Allow: /
+Allow: /images/
+
+# The year the blog was born Allow: / XXXX
+
+# Feeds:
+# Atom:  
+# Feed: 
+# Feed 2: 
+# Author: 
+# Sitemap: 
+
+# URL: 
+
+# Site owner: 
+# Street
+# Adress - Country
