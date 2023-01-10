@@ -4,7 +4,7 @@ Wordpress for single user with speed
 Works with genesis as well common wordpress installs:)
 Faster and for single user:)  (Working on wp.includes 20230104)
 
-* Updated Core and if you need robots.txt.
+* Updated: 23010 Core and if you need robots.txt.
 * Updated: core,Works with wordpress: 6.1.1
 * Updated: 221105 Roboots.txt updated.
 * Udated 221104 mail, comments files.
