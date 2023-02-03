@@ -9,7 +9,6 @@ Disallow: /wp-content/cache/
 Disallow: /wp-content/themes/
 Disallow: /comments/feed/
 Disallow: */comments$
-Disallow: ?comments=*
 Disallow: /comment-subscriptions/
 Disallow: /wp-admin/
 Disallow: /trackback/
