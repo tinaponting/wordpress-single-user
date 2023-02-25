@@ -84,7 +84,6 @@ User-agent: MSNBot-NewsBlogs Allow: /
 User-agent: Naverbot Allow: /
 User-agent: Neevabot Allow: /
 User-agent: Pinterest Allow: /
-User-agent: Petalbot Allow: /
 User-agent: Twitterbot Allow: /
 User-agent: Teoma Allow: /
 User-agent: SeznamBot Allow: /
