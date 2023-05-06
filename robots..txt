@@ -1,6 +1,4 @@
 User-agent: *
-Disallow: /*blackhole
-Disallow: /?blackhole
 Disallow: /wp-admin/
 Disallow: /wp-includes/
 Disallow: /wp-content/plugins/
@@ -35,6 +33,7 @@ Disallow: /submit.php
 
 User-agent: * Allow: /
 Allow: /images/
+Allow: /fonts/
 Allow: /*.css$
 Allow: /*.js$
 Allow: /wp-admin/admin-ajax.php
