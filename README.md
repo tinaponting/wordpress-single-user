@@ -4,7 +4,8 @@ Wordpress for single user with speed
 Works with genesis as well common wordpress installs:)
 Faster and for single user:)  (Working on wp.includes 20230104)
 
-* Updated:230703 Allcore files updated, and settings, 6.2.
+* Updated: 230714 updated core:)
+* Updated: 230703 Allcore files updated, and settings, 6.2.
 * Updated: 230418: Updated core / single user, more speed:) 
 * Updated: 230310 Updated core + wp-config file for better speed and security.
 * Updated: 230225.robots.txt. Delatet:petalbot = Pain in the ass!
