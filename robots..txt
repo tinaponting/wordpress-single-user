@@ -1,7 +1,10 @@
 User-agent: *
+Disallow: /*blackhole
+Disallow: /?blackhole
 Disallow: /wp-admin/
 Disallow: /wp-includes/
 Disallow: /wp-content/plugins/
+Disallow: /wp-content/plugins/errors
 Disallow: /wp-content/cache/
 Disallow: /wp-content/themes/
 Disallow: /comments/feed/
@@ -26,10 +29,790 @@ Disallow: /LICENSE.txt
 Disallow: /readme.html
 Disallow: /readme.txt
 Disallow: /license.txt
+Disallow: /refer/
 Disallow: /show-error-*
 Disallow: /ErrorPages/
 Disallow: /download/
 Disallow: /submit.php
+
+User-agent: * 
+User-agent: applebot 
+Allow: /apple-app-site-association
+Allow: /
+User-agent: Applebot 
+Allow: /
+User-agent: AppleNewsBot 
+Allow: /
+User-agent: Applebot/0.1
+Allow: /
+User-agent: Applebot/0.3
+Allow: /
+User-agent: fulltextrobot
+Allow: /
+User-agent: FreshBot
+Allow: /
+User-agent: ia_archiver 
+Allow: /
+User-agent: archive.org_bot 
+Allow: /
+User-agent: Android Framework bot
+Allow: /
+User-agent: Bingbot 
+Allow: /
+User-agent: bingbot/2.0; 
+Allow: /
+User-agent: BingPreview  
+Allow: /
+User-agent: Baiduspider  
+Allow: /
+User-agent: Baiduspider-video 
+Allow: /
+User-agent: Baiduspider-image 
+Allow: /
+User-agent: BaiduSpider-Ads  
+Allow: /
+User-agent: BaiduSpider-Mobile 
+Allow: /
+User-agent: Baiduspider-News 
+Allow: /
+User-agent: CFNetwork bot 
+Allow: /
+User-agent: DuckDuckBot 
+Allow: /
+User-agent: DuckDuckGo-Favicons-Bot 
+Allow: /
+User-agent: Exabot 
+Allow: /
+User-agent: Googlebot
+User-Agent: Google allow: /favicon/
+Allow: /
+User-agent: Google Favicon 
+Allow: /
+User-agent: AdsBot-Google
+Allow: /
+User-agent: APIs-Google
+Allow: /
+User-agent: AdsBot-Google-Mobile-Apps 
+Allow: / 
+User-agent: Googlebot-Mobile 
+Allow: /
+User-agent: Googlebot-Image 
+Allow: /
+User-agent: googlebot-news 
+Allow: /
+User-agent: Googlebot-Mobile 
+Allow: /
+User-agent: AdsBot-Google-Mobile 
+Allow: /
+User-agent: Googlebot Smartphone
+Allow: /
+User-agent: Google Read Aloud
+Allow: /
+User-agent: Googlebot-Video 
+Allow: /
+User-agent: Feedfetcher-Google 
+Allow: /
+User-agent: Mediapartners-Google
+Disallow: /
+User-agent: Google Mobile Adsense
+Allow: /
+User-agent: DuplexWeb-Google 
+Allow: /
+User-agent: Facebot 
+Allow: /
+User-Agent: FacebookBot
+Allow: /    
+User-agent: facebookcatalog/1.0
+Allow: /
+User-agent: facebookexternalhit/1.1 
+Allow: /
+User-agent: fulltextrobot-test
+Allow: /
+User-agent: fulltextrobot
+Allow: /
+User-agent: fulltextrobot-fresh
+Allow: /
+User-agent: GigablastOpenSource 
+Allow: /
+User-agent: HaoSouSpider 
+Allow: /
+User-agent: 360Spider
+Allow: /
+User-agent: msnbot  
+Allow: /
+User-agent: msnbot-media 
+Allow: /
+User-agent: MS Search 
+Allow: /
+User-agent: MSNBot-NewsBlogs 
+Allow: /
+User-agent: MojeekBot
+Allow: /
+User-agent: Naverbot 
+Allow: /
+User-agent: Neevabot 
+Allow: /
+User-agent: Pinterest 
+Allow: /
+User-agent: Twitterbot 
+Allow: /
+User-agent: Teoma 
+Allow: /
+User-agent: SeznamBot 
+Allow: /
+User-agent: Sosospider 
+Allow: /
+User-agent: Sosospider/2.0 
+Allow: /
+User-agent: Sosoimagespider 
+Allow: /
+User-agent: Sogou Spider 
+Allow: /
+User-agent: Sogou blog 
+Allow: /
+User-agent: Sogou head spider 
+Allow: /
+User-agent: Sogou inst spider 
+Allow: /
+User-agent: Sogou News Spider 
+Allow: /
+User-agent: Sogou Orion spider 
+Allow: /
+User-agent: Sogou spider2 
+Allow: /
+User-agent: Sogou web spider 
+Allow: /
+User-agent: Sogou-Test-Spider 
+Allow: /
+User-agent: Sqworm 2.9.85-BETA
+Allow: /
+User-agent: Speedy Spider
+Allow: /
+User-agent: YoudaoBot 
+Allow: /
+User-agent: Yahoo! Slurp 
+Allow: /
+User-agent: Yahoo! Slurp China
+Allow: /
+User-agent: YioopBot 
+Allow: /
+User-agent: YisouSpider
+Allow: /
+User-agent: Yandex 
+User-Agent: Yandex allow: /favicon/
+Allow: /
+User-agent: YandexMobileBot 
+Allow: /
+User-agent: Yandex Robot 
+Allow: /
+User-agent: YandexAccessibilityBot 
+Allow: /
+User-agent: YaDirectFetcher 
+Allow: /
+User-agent: YandexBlogs 
+Allow: /
+User-agent: YandexFavicons 
+Allow: /
+User-agent: YandexImages 
+Allow: /
+User-agent: YandexMedia 
+Allow: /
+User-agent: YandexNews 
+Allow: /
+User-agent: YandexScreenshotBot 
+Allow: /
+User-agent: YandexVideo 
+Allow: /
+User-agent: Windows Phone WebClient
+Allow: /
+
+User-agent: * 
+User-agent: 008
+Disallow: /
+User-agent: 0.83
+Disallow: /
+User-agent: AhrefsBot
+Disallow: /
+User-agent: Ahrefs-Bot
+Disallow: /
+User-agent: AhrefsBot/1.0
+Disallow: /
+User-agent: Ahrefs-Bot/1.0
+Disallow: /
+User-agent: Ahrefs-Bot/2.0
+Disallow: /
+User-agent: Ahrefs-Bot/3.0
+Disallow: /
+User-agent: Ahrefs-Bot/4.0
+Disallow: /
+User-agent: Ahrefs-Bot/5.0
+Disallow: /
+User-agent: AhrefsBot/5.0
+Disallow: /
+User-agent: Anonymous/0.0
+Disallow: /
+User-agent: AspiegelBot
+Disallow: /
+User-agent: adscanner
+Disallow: /
+User-agent: arquivo-web-crawler
+Disallow: /
+User-agent: AwarioSmartBot
+Disallow: /
+User-agent: amazonbot
+Disallow: /
+User-agent: Amazon Silk
+Disallow: /
+User-agent: BackDoorBot/1.0
+Disallow: /
+User-agent: BacklinkCrawler
+Disallow: / 
+User-agent: BLEXBot
+Disallow: /
+User-agent: BLEXBot/1.0
+Disallow: /
+User-agent: BUbiNG
+Disallow: /
+User-agent: Barkrowler/0.9
+Disallow:
+User-agent: Blekkobot
+Disallow: /
+User-agent: BLEXBot
+Disallow: /
+User-agent: Black Hole
+Disallow:/
+User-agent: BotALot
+Disallow:/
+User-agent: BuiltBotTough
+Disallow:/
+User-agent: Bytespider
+Disallow: /
+User-agent: Bytedance
+Disallow: /
+User-agent: Barkrowler
+Disallow: /
+User-agent: boitho.com-dc
+Disallow: /
+User-agent: BSEO
+Disallow: /
+User-agent: Cliqzbot
+Disallow: /
+User-agent: coccocbot-web
+Disallow: 
+User-agent: CowBot/1.0
+Disallow: /
+User-agent: cosmos 0.9
+Disallow: /
+User-agent: ccbot
+Disallow: /
+User-agent: CCBot
+Disallow: /
+User-agent: CCBot/2.0
+Disallow: /
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: Curious George
+Disallow: /
+User-agent: Curious George - www.analyticsseo.com
+Disallow: /
+User-agent: Curious George - www.analyticsseo.com/crawler
+Disallow: /
+user-agent: ChatGPT
+disallow: /
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: curl
+Disallow: /
+User-agent: Common Crawl 
+Disallow: /
+user-agent: DotBot
+disallow: /
+User-agent: DotBot/1.1
+Disallow: /
+User-agent: DataForSeoBot
+Disallow: /
+User-agent: Deskyobot
+Disallow: /
+User-agent: Deskyobot/1.0
+Disallow: /
+User-agent: Daum
+Disallow: /
+User-agent: DomainCrawler
+Disallow: /
+User-agent: Datanyze
+Disallow: /
+User-agent: Diffbot
+Disallow: /
+User-agent: Download Ninja
+Disallow: /
+User-agent: HeadlessChrome
+Disallow: /
+User-agent: Google-Extended
+Disallow: /
+User-agent: grapeshot
+Disallow: /
+User-agent: GrapeshotCrawler
+Disallow: /
+User-agent: grapeshotcrawler	
+Disallow: /
+User-agent: GroupHigh
+Disallow: /
+User-agent: GroupHigh/1.0
+Disallow: /
+User-agent: Gluten Free Crawler/1.0 
+Disallow: /
+User-agent: Genieo
+Disallow: /
+User-agent: Genieo/1.0
+Disallow: /
+User-agent: GPTBot
+Disallow: /
+User-agent: GPT-2
+Disallow: /
+User-agent: GPT-3 
+Disallow: /
+User-agent: GPT-3.5
+Disallow: /
+User-agent: hivaBot
+Disallow: /
+User-agent: ltx71+-+(http://ltx71.com/)
+Disallow: /
+User-agent: img2dataset
+Disallow: /
+User-agent: Ichiro 3.0
+Disallow: /
+User-agent: james bot
+Disallow: /
+User-Agent: The Knowledge AI
+Disallow: /
+User-agent: libwww-perl
+Disallow: /
+User-agent: link checker
+Disallow: /
+User-agent: Link/1.0
+Disallow: /
+User-agent: linkCheck
+Disallow: /
+User-agent: linkCheckV3.0
+Disallow: /
+User-agent: Linkdex
+Disallow: /
+User-agent: linkdex.com/v2.0
+Disallow: /
+User-agent: linkdex.com/v2.1
+Disallow: /
+User-agent: LinkdexBot
+Disallow: /
+User-agent: linkdexbot/2.0
+Disallow: /
+User-agent: linkdexbot/2.1
+Disallow: /
+User-agent: linkdexbot-mobile/2.1
+Disallow: /
+User-agent: LinkpadBot
+Disallow: /
+User-agent: LinkpadBot/1.06
+Disallow: /
+User-agent: LinqiaScrapeBot
+Disallow: /
+User-agent: LinqiaScrapeBot/1.0
+Disallow: /
+User-agent: Lipperhey SEO Service
+Disallow: /
+User-agent: lwp-trivial 
+Disallow: /
+User-agent: SEOkicks-Robot
+Disallow: /
+User-agent: SputnikBot
+Disallow: /
+User-agent: Sputnik
+Disallow: /
+User-agent: SputnikBot/2.3
+Disallow: /
+User-agent: Rismoon
+Disallow: /
+User-agent: Shim-Crawler
+Disallow: /
+User-agent: site.ru
+Disallow: /
+User-agent: SiteAuditBot
+Disallow: /
+User-agent: SEOkicks
+Disallow:/
+User-agent: ScoutJet
+Disallow: /
+User-agent: Seekport Crawler
+Disallow: /
+User-agent: Seobility
+Disallow: /
+User-agent: SJUUPBot
+Disallow: /
+User-agent: serpstatbot/1.0
+Disallow: /
+User-agent: Steeler
+disallow: /
+User-agent: Steeler/3.5
+disallow: /
+User-agent: SEMrushBot
+Disallow: /
+User-agent: SemrushBot-SA
+Disallow: / 
+User-agent: ScanAlert
+Disallow:/
+User-agent: Scanbot
+Disallow:/
+User-agent: scan.lol
+Disallow:/
+User-agent: Scrapy
+Disallow: /
+User-agent: Scrapy/0.16.5
+Disallow: /
+User-agent: Scrapy/0.24.4
+Disallow: /
+User-agent: Scrapy/0.24.5
+Disallow: /
+User-agent: Scrapy/0.24.6
+Disallow: /
+User-agent: Scrapy/1.0.1
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: SemrushBot-BA
+Disallow: /
+User-agent: SemrushBot-SA
+Disallow: /
+User-agent: SemrushBot-SI
+Disallow: /
+User-agent: SemrushBot-SWA
+Disallow: /
+User-agent: SemrushBot-CT
+Disallow: /
+User-agent: SemrushBot-BM
+Disallow: /
+User-agent: SplitSignalBot
+Disallow: /
+User-agent: SemrushBot-COUB
+Disallow: 
+User-agent: SEOkicks
+Disallow: /
+User-agent: SEOkicks-Robot
+Disallow: /
+User-agent: SEOlyticsCrawler
+Disallow: /
+User-agent: SEOlyticsCrawler/3.0
+Disallow: /
+User-agent: SEOstats 2.1.0
+Disallow: /
+User-agent: Seosys/Nutch-2.3
+Disallow: /
+User-agent: SetCronJob/1.0
+Disallow: /
+User-agent: SistrixCrawler
+Disallow: /
+User-agent: Sistrix
+Disallow: /
+User-agent: SISTRIX Crawler
+Disallow: /
+User-agent: SISTRIX
+Disallow: /
+User-agent: TinEye
+Disallow: /
+User-agent: TinEye 1.1
+Disallow: /
+User-agent: Twingly Recon-Klondike/1.0
+Disallow: /
+User-agent: Twingly
+Disallow: /
+User-agent: Twingly Recon
+Disallow: /
+User-agent: URL Control
+Disallow: /
+User-agent: URLSpion
+Disallow: /
+User-agent: URL_Spider_Pro
+Disallow: /
+User-agent: URLy Warning
+Disallow: /
+User-agent: VigLink
+Disallow: /
+User-agent: VigLinkWebText2
+Disallow: /
+User-agent: woorankreview/2.0
+Disallow: /
+User-agent: leikibot
+Disallow: /
+User-agent: libcurl
+Disallow: /
+User-agent: linkdexbot
+Disallow: /
+User-agent: lssrocket
+Disallow: /
+User-agent: Mail.Ru
+Disallow: /
+User-agent: Mail.RU_Bot/2.0
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: magpie
+Disallow: /
+User-agent: Meta AI
+Disallow: /
+User-agent :Mr.4x3 Powered
+Disallow: / 
+User-agent: MojeekBot
+Disallow: /
+User-agent: MauiBot 
+Disallow: /
+user-agent: MJ12bot
+disallow: /
+User-agent: MixrankBot
+Disallow: /
+User-agent: MixrankBot
+Disallow: /
+User-agent: MegaIndex Bot
+Disallow: /
+User-agent: MegaIndex.ru 
+Disallow: /
+User-agent: megaIndex.ru
+Disallow: /
+User-agent: MegaIndex.ru/2.0 
+Disallow: /
+User-agent: oBot/2.3.1
+Disallow: /
+User-agent: Online Domain Tools - Online Website Link Checker
+Disallow: /
+User-agent: Online Domain Tools - Online Website Link Checker/1.2
+Disallow: /
+User-agent: OpenAI GPT
+Disallow: /
+User-agent: Openstat
+Disallow: /
+User-agent: Openstat/0.1
+Disallow: /
+User-agent: OptimizationCrawler
+Disallow: /
+User-agent: OptimizationCrawler/0.2
+Disallow: /
+User-agent: Omgilibot
+Disallow: /
+User-agent: Uptimebot
+Disallow: /
+User-Agent: updown_tester
+Disallow: /
+User-agent: Pa
+Disallow: /
+User-agent: Pi-Monster
+Disallow : /
+User-agent: Pandalytics/1.0
+Disallow: /
+User-agent: Page Analyzer v4.0
+Disallow: /
+User-agent: Page Analyzer
+Disallow: /
+User-agent: PageAnalyzer/1.1
+Disallow: /
+User-agent: PageAnalyzer/1.5
+Disallow: /
+User-agent: PagesInventory
+Disallow: /
+User-agent: Pagespeed/1.1 Fetcher
+Disallow: /
+User-agent: Pagespeed/1.1
+Disallow: /
+User-agent: Pagespeedbot
+Disallow: /
+User-agent: Perl LWP
+Disallow: /
+User-agent: PetalBot
+Disallow: /
+User-agent: PHPCrawl
+Disallow: /
+User-agent: Python-urllib
+Disallow: /
+User-agent: phpSiteCheck 1.0
+Disallow: /
+User-agent: phpSiteCheck
+Disallow: /
+User-agent: Parsijoo
+Disallow: /
+User-agent: polybot 1.0
+Disallow: /
+User-agent: python-requests
+Disallow: /
+Disallow: /rlog/1.0
+Disallow: /
+User-agent: publiclibraryarchive.org
+Disallow: /
+User-agent: publiclibraryarchive.org/1.0
+Disallow: /
+User-agent: Putin
+Disallow: /
+User-agent: Putin spider
+Disallow: /
+User-agent: /orboss Web Crawler
+Disallow: /
+User-agent: /rlog/1.0
+Disallow: /
+User-agent: rogerbot
+Disallow: /
+User-agent: toCrawl/UrlDispatcher
+Disallow: /
+User-agent: TurnitinBot
+Disallow: /
+User-agent: URL Control
+Disallow: /
+User-agent: URLSpion
+Disallow: /
+User-agent: URL_Spider_Pro
+Disallow: /
+User-agent: URLy Warning
+Disallow: /
+User-agent: UptimeRobot
+Disallow: /
+User-agent: UptimeRobot/2.0
+Disallow: /
+User-agent: OpenWebIndex/Nutch-1.6
+Disallow: /
+User-agent: OpenWebIndex
+Disallow: 
+Disallow: webgains-bot
+Disallow: /
+User-agent: WBSearchBot
+Disallow: /
+User-agent: WBSearchBot/1.1
+Disallow: /
+User-agent: WebCopier vx.xa
+Disallow: /
+User-agent: Web-sniffer
+Disallow: /
+User-agent: Web-sniffer/1.1.0
+Disallow: /
+User-agent: Webster Pro V3.4
+Disallow: /
+User-agent: VegeBot
+Disallow: /
+User-agent: WeLikeLinks
+Disallow: /
+User-agent: VeriCiteCrawler
+Disallow: /
+User-agent: WebBandit
+Disallow: /
+User-agent: WebCapture 2.0
+Disallow: /
+User-agent: WebCopier
+Disallow: /
+User-agent: WebCopier vx.xa
+Disallow: /
+User-agent: WebCopier v.2.2
+Disallow: /
+User-agent: WebCopier v3.2a
+Disallow: /
+User-agent: WebBandit/3.50
+Disallow: /
+User-agent: Web Image Collector
+Disallow: /
+User-agent: WBSearchBot
+Disallow: /
+User-agent: WBSearchBot/1.1
+Disallow: /
+User-agent: Web-sniffer
+Disallow: /
+User-agent: Web-sniffer/1.1.0
+Disallow: /
+User-agent: WebStripper
+Disallow: /
+User-agent: Webster Pro V3.4
+Disallow:/ 
+User-agent: WeLikeLinks
+Disallow: /
+User-agent: woobot
+Disallow: /
+User-agent: woobot/1.1
+Disallow: /
+User-agent: woobot/2.0
+Disallow: /
+User-agent: wscheck.com
+Disallow: /
+User-agent: wscheck.com/1.0.0
+Disallow: /
+User-agent: WhatWeb
+Disallow: /
+User-agent: WhatWeb/0.4.8-dev
+Disallow: /
+User-agent: WebZip
+Disallow: /
+User-agent: WebZip/4.0
+Disallow: /
+User-agent: WebZIP/4.21
+Disallow: /
+User-agent: WebZIP/5.0
+Disallow: /
+User-agent: Wget
+Disallow: /
+User-agent: wget
+Disallow: /
+User-agent: Wget/1.5.3
+Disallow: /
+User-agent: Wget/1.6
+Disallow: /
+User-agent: WWW-Collector-E
+Disallow: /
+User-agent: vBSEO
+Disallow: /
+User-agent: VCI
+Disallow: /
+User-agent: VCI WebViewer VCI WebViewer Win32
+Disallow: /
+User-agent: VegeBot
+Disallow: /
+User-agent: VeriCiteCrawler
+Disallow: /
+User-agent: VeriCiteCrawler/Nutch-1.9
+Disallow: /
+User-agent: Voila Robot
+Disallow: /
+User-agent: voltron
+Disallow: /
+User-agent: woobot
+Disallow: /
+User-agent: woobot/1.1
+Disallow: /
+User-agent: woobot/2.0
+Disallow: /
+User-agent: Vorboss Web Crawler
+Disallow: /
+User-agent: Vorboss Web Crawler/Nutch-2.3
+Disallow: /
+User-agent: wscheck.com
+Disallow: /
+User-agent: wscheck.com/1.0.0
+Disallow: /
+User-agent: WebSpider 2
+Disallow: /
+User-agent: Java
+Disallow: /
+User-agent: Yeti/1.0 
+Disallow: /
+User-agent: Yeti
+Disallow: / 
+User-agent: Yeti-Mobile
+Disallow: /
+User-agent: YisouSpider
+Disallow: /
+User-agent: Xenu's Link Sleuth 1.1c
+Disallow: /
+User-agent: Zeus
+Disallow: /
+User-agent: Zeus 32297 Webster Pro V2.9 Win32
+Disallow: /
+User-agent: Zeus Link Scout
+Disallow: /
+User-agent: Zgrab
+Disallow: /
+User-agent: zgrab/0.x
+Disallow: /
+User-Agent: ZoominfoBot
+Disallow: /
 
 # The year the blog was born Allow: / XXXX
 
