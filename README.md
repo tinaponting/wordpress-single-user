@@ -6,7 +6,7 @@ Faster and for single user:)  (Working on wp.includes 20230104)
 
 Added: ai.txt -ggod if you do not want to training ground A!!
 
-* Updated: 231005 Core, works with 6.2 +
+* Updated: 231005 Core, works with 6.2 + Updated: robots.txt
 * Updated: 230811 core 
 * Updated: 230714 updated core:)
 * Updated: 230703 Allcore files updated, and settings, 6.2.
