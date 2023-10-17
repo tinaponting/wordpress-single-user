@@ -313,8 +313,6 @@ User-agent: Cliqzbot
 Disallow: /
 User-agent: coccocbot-web
 Disallow: /
-‍User-agent: Claude-Web
-Disallow: /
 User-agent: CowBot/1.0
 Disallow: /
 User-agent: cosmos 0.9
