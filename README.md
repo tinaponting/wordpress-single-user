@@ -7,6 +7,7 @@ Faster and for single user:)  (Working on wp.includes)
 
 Added: ai.txt -ggod if you do not want to training ground A!!
 
+* Updated: 2311919 Extended robots..txt, with dismiss All scumbags!
 * Updated: 231030, core up to date!
 * Updated: 231027 updated core, working on settings.php
 * Updated: 231005 Core, works with 6.2 + Updated: robots.txt
