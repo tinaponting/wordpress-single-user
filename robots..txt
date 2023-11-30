@@ -146,6 +146,8 @@ User-agent: 360Spider Disallow:/
 User-agent: 404enemy Disallow:/
 User-agent: 80legs Disallow:/
 User-agent: 404checker Disallow:/
+User-agent: Amazonbot Disallow: /
+User-agent: Amazonbot/0.1 Disallow: /
 User-agent: AhrefsBot Disallow: /
 User-agent: Ahrefs-Bot Disallow: /
 User-agent: AhrefsBot/1.0 Disallow: /
