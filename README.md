@@ -1,5 +1,5 @@
 # wordpress-single-user
-Works witt wordpress: 6,3,2+
+Works witt wordpress: 6,4,2+
 Wordpress for single user with speed
 
 Works with genesis as well common wordpress installs:)
@@ -7,6 +7,7 @@ Faster and for single user:)  (Working on wp.includes)
 
 Added: ai.txt -ggod if you do not want to training ground A!!
 
+* Updated: 240122 core- works well::)
 * Updated: 2311919 Extended robots..txt, with dismiss All scumbags!
 * Updated: 231030, core up to date!
 * Updated: 231027 updated core, working on settings.php
