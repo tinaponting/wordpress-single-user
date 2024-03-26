@@ -1,8 +1,9 @@
-<!-->Open Graph<!-->
+Open Graph
 
 PS!: Open Graph tags need to be added to the head section of each page on your website. Use this template to copy from and then just adjust with your own information.
 
-
+# Open graph:
+<!-->Open Graph<!-->
 <meta property="og:title" content="Title Of Your Content Here" />
 <meta property="og:description" content="Description of your content here" />
 <meta property="og:url" content="http://www.yoursite.com/yourcontent.html" />
@@ -10,30 +11,42 @@ PS!: Open Graph tags need to be added to the head section of each page on your w
 <meta property="og:site_name" content="The Name Of Your Site" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="article" />
-Once added, validate the tags via the tools referred to in the final section of this post below.
 
-<!-->Twitter Cards
+.................
 
-<meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:title" content="Title Of Your Content Here"/>
-<meta name="twitter:description" content="Description of your content here"/>
-<meta name="twitter:site" content="@yourusername"/>
-<meta name="twitter:image" content="http://www.yoursite.com/yourimage.jpg"/>
-<meta name="twitter:creator" content="@yourusername"/>
+#Open Graph is also supported by at least these platforms:
+LinkedIn
+Slack
+Twitter
+WhatsApp
+Telegram
 
+.................
 
-<!--> Facebook Open Graph meta tags   / LinkedIn -->
+#Twitter:
+<!-->Twitter Cards -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@myusername" />
+<meta name="twitter:creator" content="@myusername" />
+<meta property="og:url" content="http://bits.blogs.nytimes.com/2011/12/08/a-twitter-example/" />
+<meta property="og:title" content="Title of my content" />
+<meta property="og:description" content="description" />
+<meta property="og:image" content="http://graphics8.example.jpg" />
 
+.................
+	
+#Facebook:
+<!--> Facebook Open Graph meta tags / LinkedIn -->
 <meta property="og:title" content="Enter a title for this page." />
 <meta property="og:url" content="Enter your page/site URL." />
 <meta property="og:image" content="Enter the URL for a representative image, e.g., portrait, logo. Image should square and at least 600px wide." />
 <meta property="og:site_name" content="Enter the name of your site." />
 <meta property="og:description" content="Enter a description of your website." />
 
+.................
 
-
+#More  Language:
 <!-->IF you got in more Language: <!-->
-
 <meta property="og:audio" content="https://example.com/bond/theme.mp3" />
 <meta property="og:description" 
 content="" />
@@ -44,32 +57,55 @@ content="" />
 <meta property="og:site_name" content="IMDb" />
 <meta property="og:video" content="https://example.com/xxx/trailer.swf" />
 
+.................
 
-
+#Images/Photo:
 <!-->images: <!-->
-
 <meta property="og:image" content="https://example.com/ogp.jpg" />
 <meta property="og:image:secure_url" content="https://secure.example.com/ogp.jpg" />
 <meta property="og:image:type" content="image/jpeg" />
 <meta property="og:image:width" content="400" />
 <meta property="og:image:height" content="300" />
 <meta property="og:image:alt" content="A shiny red apple with a bite taken out" />
-The og:video tag has the identical tags as og:image. Here is an example:
 
+.................
+
+#Movies:
 <!-->Movies:<!-->
-
 <meta property="og:video" content="https://example.com/movie.swf" />
 <meta property="og:video:secure_url" content="https://secure.example.com/movie.swf" />
 <meta property="og:video:type" content="application/x-shockwave-flash" />
 <meta property="og:video:width" content="400" />
 <meta property="og:video:height" content="300" />
-The og:audio tag only has the first 3 properties available (since size doesn't make sense for sound):
 
-<!--> Audio:  <!-->
+.................
 
+#Audio:
+<!--> Audio: <!-->
 <meta property="og:audio" content="https://example.com/sound.mp3" />
 <meta property="og:audio:secure_url" content="https://secure.example.com/sound.mp3" />
 <meta property="og:audio:type" content="audio/mpeg" />
 
+.................
 
-o not add this:  <!-->!
+<!-->Website Card <!-->
+<meta name="Website Card" content="summary"/>
+<meta name="Website Card:title" content="Title Of Your Content Here"/>
+<meta name="Website Card:description" content="Description of your content here"/>
+<meta name="Website Card:site" content="@yourusername"/>
+<meta name="Website Card:image" content="http://www.yoursite.com/yourimage.jpg"/>
+<meta name="Website Card:creator" content="@yourusername"/>
+
+.................
+
+#Others:
+App Card: This card provides a link, call-to-action and rating of apps you share.
+Lead Generation Card: This card allows others to sign up for email lists or register with websites without leaving Twitter.
+Summary Cards: These include description, title and thumbnail of pages shared in Twitter.
+Large Photo Summary Card: This provides the same functions as the Summary Card but use a large image.
+Product Card: Offers information regarding the link as well as supporting prices and availability of a product.
+Audio Card: Used primarily for Podcasts, this method supports audio formats.
+Play Card: Allows you to share media such as YouTube and Vine to Twitter.
+Gallery Card: Supports multiple images in a single Tweet.
+Photo Card: For your photos.
+
