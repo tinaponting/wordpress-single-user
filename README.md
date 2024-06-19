@@ -7,6 +7,7 @@ Faster and for single user:)  (Working on wp.includes)
 
 Added: ai.txt -ggod if you do not want to training ground A!!
 
+* Updated: All Robots.txt
 * Updated: 240505; better robots.txt
 * Updated: 2404223, extended verion with: no thanks, ai:(
 * Updated: 240204 Robots.txt with two verisions, use the one you like!
