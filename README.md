@@ -8,7 +8,7 @@ Faster and for single user:)  (Working on wp.includes)
 Added: ai.txt -ggod if you do not want to training ground A!!
 
 ***LEFT to do: update.settings to: 6.6.1**
-
+* Updated: Robots.txt extended version. more ai - not wanted.
 * Updated: 240730, added more: Do not want: Ai
 * Updated: 240725 - All Robots.txt files
 * Uppdated: extended rrobots.txt with more Ai.
