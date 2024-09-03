@@ -9,6 +9,7 @@ Added: ai.txt -ggod if you do not want to training ground A!!
 
 ***LEFT to do: update.settings to: 6.6.1**
 
+* Updated: 240903 core 6.6.1***
 * Updated: 240903 updated robets.txt
 * Updated: 240830 updated robets.txt exended eith latest ai bots - not wanted.
 * Updated: Robots.txt extended version. more ai - not wanted.
