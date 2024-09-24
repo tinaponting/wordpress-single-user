@@ -9,6 +9,7 @@ Added: ai.txt -ggod if you do not want to training ground A!!
 
 ***LEFT to do: update.settings to: 6.6.1**
 
+* Updated: 240924, updated robots.txt, user agents.
 * Updated: 240922, updated robots.txt, user agents.
 * Updated: 240917, robots.txt with thr the newest Ai- Don not want! 
 * Updated: 240903 core 6.6.1***
