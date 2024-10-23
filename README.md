@@ -7,7 +7,8 @@ Faster and for single user:)  (Working on wp.includes)
 
 Added: ai.txt -ggod if you do not want to training ground A!!
 
-***LEFT to do: update.settings to: 6.6.1**
+
+* Updated: 241023, updated robots.txt.neeww AI.
 * Updated: 241006, updated robots.txt. MORE  ai.
 * Updated: 241002, updated robots.txt. new ai.
 * Updated: 240929, updated robots.txt, user agents,checked all dissalow for not in use, long gone robots, set latest useragents:)
