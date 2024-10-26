@@ -7,8 +7,8 @@ Faster and for single user:)  (Working on wp.includes)
 
 Added: ai.txt -ggod if you do not want to training ground A!!
 
-
-* Updated: 241023, updated robots.txt.neeww AI.
+* Updated: 241026, updated robots.txt.Rechecked All AI, removed some not active AI.
+* Updated: 241023, updated robots.txt.new AI.
 * Updated: 241006, updated robots.txt. MORE  ai.
 * Updated: 241002, updated robots.txt. new ai.
 * Updated: 240929, updated robots.txt, user agents,checked all dissalow for not in use, long gone robots, set latest useragents:)
