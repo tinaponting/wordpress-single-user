@@ -2,6 +2,8 @@
 Works witt wordpress: 6,4,2+
 Wordpress for single user with speed
 
+Ai: ai.robots.txt here
+
 Works with genesis as well common wordpress installs:)
 Faster and for single user:)  (Working on wp.includes)
 
