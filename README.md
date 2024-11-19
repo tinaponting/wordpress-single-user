@@ -9,6 +9,7 @@ Faster and for single user:)  (Working on wp.includes)
 
 Added: ai.txt -ggod if you do not want to training ground A!!
 
+* Updated: 241119, updated robots.txt.Added more not wanted Ai!.
 * Added Hybrid Opimasze, simple cathe plugin, adoned but stil works.
 * Updated: 241104, updated robots.txt.Added more not wanted Ai!.
 * Updated: 241026, updated robots.txt.Rechecked All AI, removed some not active AI.
