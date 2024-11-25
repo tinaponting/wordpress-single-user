@@ -1,5 +1,5 @@
 # wordpress-single-user
-Works witt wordpress: 6,4,2+
+Works witt wordpress: 6,7,1+
 Wordpress for single user with speed
 
 Ai: ai.robots.txt here
