@@ -9,6 +9,7 @@ Faster and for single user:)  (Working on wp.includes)
 
 Added: ai.txt -ggod if you do not want to training ground A!!
 
+* Updated: 241225 robots.txt, with the Latest Ai 
 * Updated: 241210 robots.txt, with the Latest Ai 
 * Updated: 241126 robots.txt, with the Latest Ai - not wanted! /new china AI
 * Updated: 241119, updated robots.txt.Added more not wanted Ai!.
