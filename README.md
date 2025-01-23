@@ -9,7 +9,8 @@ Faster and for single user:)  (Working on wp.includes)
 
 Added: ai.txt -ggod if you do not want to training ground A!!
 
-* Updated: 2501017 robots.txt with Latests ai block
+* Updated: 2501023 robots.txt with Latests ai to block
+* Updated: 2501017 robots.txt with Latests ai to block
 * Updated: 250113 robots.txt, with the Latest Ai /bytesdance LLM
 * Updated: 240204  - 241231
 * Updated: 240101 core- works well::)t
