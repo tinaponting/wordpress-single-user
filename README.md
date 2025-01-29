@@ -9,6 +9,7 @@ Faster and for single user:)  (Working on wp.includes)
 
 Added: ai.txt -ggod if you do not want to training ground A!!
 
+* Updated: 2501029 robots.txt, some not need stuff andadded flyer Ai.. 
 * Updated: 2501027 robots.txt, some not need stuff. 
 * Updated: 2501023 robots.txt with Latests ai to block
 * Updated: 2501017 robots.txt with Latests ai to block
