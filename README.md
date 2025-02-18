@@ -8,6 +8,7 @@ Works with genesis as well common wordpress installs:)
 Faster and for single user:)  (Working on wp.includes)
 Added: ai.txt -God if you do not want to training ground A!!
 
+* Updated: 2500218 robots.txt
 * Updated: 2500210 robots.txt
 * Updated: 251029 robots.txt, some not need stuff andadded flyer Ai.. 
 * Updated: 2501027 robots.txt, some not need stuff. 
