@@ -8,6 +8,7 @@ Works with genesis as well common wordpress installs:)
 Faster and for single user:)  (Working on wp.includes)
 Added: ai.txt -God if you do not want to training ground A!!
 
+* Updated: 25003193 robots.txt - Delated Google Extended, infers with google crawling.
 * Updated: 2500319 robots.txt - Latest AI!
 * Updated: 2500313 robots.txt - Latest AI!
 * Updated: 2500308 robots.txt - Latest AI, not wanted!
