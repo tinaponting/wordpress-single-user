@@ -2,7 +2,9 @@
 Works witt wordpress: 6,7,1+
 Wordpress for single user with speed
 
-Ai: ai.robots.txt here
+Fork of blockaai crawlers.zip
+IN: https://github.com/tinaponting/ai-robots-scrapers
+plugin - works well.
 
 Works with genesis as well common wordpress installs:)
 Faster and for single user:)  (Working on wp.includes)
