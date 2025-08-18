@@ -10,12 +10,13 @@ Works with genesis as well common wordpress installs:)
 Faster and for single user:)  (Working on wp.includes)
 Added: ai.txt -God if you do not want to training ground A!!
 
-* Updated: 25003193 robots.txt - Delated Google Extended, infers with google crawling.
+* Updated: 250818 Core updated.
+* Updated: 2503193 robots.txt - Delated Google Extended, infers with google crawling.
 * Updated: 2500319 robots.txt - Latest AI!
 * Updated: 2500313 robots.txt - Latest AI!
-* Updated: 2500308 robots.txt - Latest AI, not wanted!
-* Updated: 2500306 Core updated.
-* Updated: 2500306 robots.txt - Latest AI, not wanted!
+* Updated: 250308 robots.txt - Latest AI, not wanted!
+* Updated: 250306 Core updated.
+* Updated: 250306 robots.txt - Latest AI, not wanted!
 * Updated: 2500218 robots.txt
 * Updated: 2500210 robots.txt
 * Updated: 251029 robots.txt, some not need stuff andadded flyer Ai.. 
